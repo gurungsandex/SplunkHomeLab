@@ -19,8 +19,12 @@ I aim to create a simple, instructional guide that’s easy to use, reflecting m
 
 # Step 1: Install Splunk Enterprise on the Host Server
 - Download Splunk Enterprise from Splunk's official website.
-- Install Splunk Enterprise and create a username and password. 
+- Install Splunk Enterprise and create a username and password.
+  <img width="1093" alt="sp1" src="https://github.com/user-attachments/assets/9b2a1253-3c51-4316-ab29-2e79a3554f1d" />
+
 - Access the Splunk Web interface by navigating to the default URL: http://localhost:8000
+<img width="932" alt="sp2" src="https://github.com/user-attachments/assets/ed901601-bb5c-4cdc-b431-3f91b6019ab2" />
+
 
 # Step 2: Set up the receiving port in Splunk Enterprise
 - Go to Settings, then select Forwarding and Receiving. 
